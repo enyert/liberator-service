@@ -1,6 +1,6 @@
 # liberator-service
 
-Service used as example for mi tutorial at [someurl](http://www.whatever.com)
+Service used as example for mi tutorial at [Liberator tutorial](http://enyert.github.io/rest-api-clojure-tutorial/)
 
 ## Prerequisites
 
